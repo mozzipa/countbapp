@@ -21,6 +21,7 @@
     "react": "^16.3.2",
     "react-dom": "^16.3.2",
     "react-router": "^3.2.1",
+    "solc": "^0.5.6",
     "truffle-hdwallet-provider-klaytn": "^1.0.13-a"
   },
   "devDependencies": {
